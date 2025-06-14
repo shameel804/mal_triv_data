@@ -4,7 +4,7 @@
     {"name": "Songs 1", "lvls": 30, "cost": 0, "star": 0, "is_song": true, "cover": 0},
     {"name": "Movies 2", "lvls": 20, "cost": 300, "star": 17, "is_star": true, "cover": 0},
     {"name": "Movies 3", "lvls": 20, "cost": 450, "star": 34, "is_star": true, "cover": 0},
-    {"name": "Youtuber 1", "lvls": 20, "cost": 499, "star": null, "cover": 14},
+    {"name": "Youtuber 1", "lvls": 20, "cost": 399, "star": null, "cover": 14, "disc": 10},
     {"name": "Songs 2", "lvls": 30, "cost": 200, "star": null, "is_song": true, "cover": 0, "disc": 10},
     {"name": "Movies 4", "lvls": 20, "cost": 550, "star": 51, "is_star": true, "cover": 0},
     {"name": "Actors 2", "lvls": 20, "cost": 600, "star": 60, "cover": 9},
