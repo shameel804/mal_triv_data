@@ -212,8 +212,8 @@
     {
         "name": "Dialogues 1",
         "lvls": 5,
-        "cost": 150,
-        "star": 17,
+        "cost": 0,
+        "star": 0,
         "is_text": true,
         "cover": 0,
         "type": "Dialogues"
