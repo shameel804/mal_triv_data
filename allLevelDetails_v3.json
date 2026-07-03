@@ -1,0 +1,221 @@
+[
+    {
+        "name": "Movies 1",
+        "lvls": 20,
+        "cost": 0,
+        "star": 0,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Actors 1",
+        "lvls": 20,
+        "cost": 0,
+        "star": 0,
+        "cover": 14,
+        "type": "Actors"
+    },
+    {
+        "name": "Songs 1",
+        "lvls": 30,
+        "cost": 0,
+        "star": 0,
+        "is_song": true,
+        "cover": 0,
+        "type": "Songs"
+    },
+    {
+        "name": "Movies 2",
+        "lvls": 20,
+        "cost": 150,
+        "star": 17,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Movies 3",
+        "lvls": 20,
+        "cost": 150,
+        "star": 34,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Youtuber 1",
+        "lvls": 20,
+        "cost": 150,
+        "star": null,
+        "cover": 14,
+        "disc": 10,
+        "type": "Youtuber"
+    },
+    {
+        "name": "Songs 2",
+        "lvls": 30,
+        "cost": 150,
+        "star": null,
+        "is_song": true,
+        "cover": 0,
+        "disc": 5,
+        "type": "Songs"
+    },
+    {
+        "name": "Movies 4",
+        "lvls": 20,
+        "cost": 150,
+        "star": 51,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Actors 2",
+        "lvls": 20,
+        "cost": 350,
+        "star": 60,
+        "cover": 9,
+        "type": "Actors"
+    },
+    {
+        "name": "Movies 5",
+        "lvls": 20,
+        "cost": 350,
+        "star": 68,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Actors 3",
+        "lvls": 20,
+        "cost": 250,
+        "star": null,
+        "cover": 11,
+        "type": "Actors"
+    },
+    {
+        "name": "Movies 6",
+        "lvls": 20,
+        "cost": 350,
+        "star": 85,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Actors 4",
+        "lvls": 20,
+        "cost": 350,
+        "star": null,
+        "cover": 0,
+        "type": "Actors"
+    },
+    {
+        "name": "Movies 7",
+        "lvls": 20,
+        "cost": 500,
+        "star": 102,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Actors 5",
+        "lvls": 20,
+        "cost": 450,
+        "star": null,
+        "cover": 0,
+        "type": "Actors"
+    },
+    {
+        "name": "Movies 8",
+        "lvls": 20,
+        "cost": 500,
+        "star": 119,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Actors 6",
+        "lvls": 20,
+        "cost": 450,
+        "star": null,
+        "cover": 0,
+        "type": "Actors"
+    },
+    {
+        "name": "Movies 9",
+        "lvls": 20,
+        "cost": 500,
+        "star": 136,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Actors 7",
+        "lvls": 20,
+        "cost": 450,
+        "star": null,
+        "cover": 12,
+        "type": "Actors"
+    },
+    {
+        "name": "Movies 10",
+        "lvls": 20,
+        "cost": 500,
+        "star": 153,
+        "is_star": true,
+        "cover": 0,
+        "type": "Movies"
+    },
+    {
+        "name": "Movies 11",
+        "lvls": 20,
+        "cost": 900,
+        "star": 170,
+        "is_star": true,
+        "cover": 15,
+        "type": "Movies"
+    },
+    {
+        "name": "Movies 12",
+        "lvls": 20,
+        "cost": 900,
+        "star": 187,
+        "is_star": true,
+        "cover": 14,
+        "type": "Movies"
+    },
+    {
+        "name": "Movies 13",
+        "lvls": 20,
+        "cost": 900,
+        "star": 204,
+        "is_star": true,
+        "cover": 3,
+        "type": "Movies"
+    },
+    {
+        "name": "Movies 14",
+        "lvls": 22,
+        "cost": 900,
+        "star": 221,
+        "is_star": true,
+        "cover": 17,
+        "type": "Movies"
+    },
+    {
+        "name": "Dialogues 1",
+        "lvls": 5,
+        "cost": 150,
+        "star": 17,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    }
+]

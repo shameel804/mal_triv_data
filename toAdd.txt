@@ -1,0 +1,7 @@
+"Directors": Guess the famous Indian/Malayalam film director from their picture or movie list.
+"Singers" / "Musicians": Guess the playback singer or music composer.
+"TV Shows" / "Web Series": Guess the popular Indian serial or streaming show.
+"Dialogues": Guess the movie or actor based on an iconic dialogue (e.g., audio clip or text).
+"Characters": Guess the iconic movie character name (e.g., "Ramanan", "Dr. Sunny").
+"Comedians": A dedicated section for legendary comedy actors.
+"Villains": Guess the iconic antagonist.
