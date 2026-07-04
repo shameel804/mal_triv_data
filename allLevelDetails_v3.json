@@ -59,7 +59,8 @@
         "star": 7,
         "is_text": true,
         "cover": 0,
-        "type": "Plot Summaries"
+        "type": "Plot Summaries",
+        "des": "Guess the Malayalam movie name from the story"
     },
     {
         "name": "Dialogues 1",
@@ -68,7 +69,8 @@
         "star": 10,
         "is_text": true,
         "cover": 0,
-        "type": "Dialogues"
+        "type": "Dialogues",
+        "des": "Guess the Malayalam movie name from the dialogue"
     },
     {
         "name": "Songs 2",
@@ -388,5 +390,305 @@
         "is_text": true,
         "cover": 0,
         "type": "Plot Summaries"
+    },
+    {
+        "name": "Character Trios 1",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios",
+        "des": "Guess the Malayalam movie from the characters"
+    },
+    {
+        "name": "Character Trios 2",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios",
+        "des": "Guess the Malayalam movie from the characters"
+    },
+    {
+        "name": "Character Trios 3",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios",
+        "des": "Guess the Malayalam movie from the characters"
+    },
+    {
+        "name": "Character Trios 4",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios",
+        "des": "Guess the Malayalam movie from the characters"
+    },
+    {
+        "name": "Character Trios 5",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios",
+        "des": "Guess the Malayalam movie from the characters"
+    },
+    {
+        "name": "Character Trios 6",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios",
+        "des": "Guess the Malayalam movie from the characters"
+    },
+    {
+        "name": "Character Trios 7",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios",
+        "des": "Guess the Malayalam movie from the characters"
+    },
+    {
+        "name": "Character Trios 8",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios",
+        "des": "Guess the Malayalam movie from the characters"
+    },
+    {
+        "name": "Character Trios 9",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios",
+        "des": "Guess the Malayalam movie from the characters"
+    },
+    {
+        "name": "Character Trios 10",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Character Trios",
+        "des": "Guess the Malayalam movie from the characters"
+    },
+    {
+        "name": "Emoji Movies 1",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies",
+        "des": "Guess the Malayalam movie from the emojis"
+    },
+    {
+        "name": "Emoji Movies 2",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies",
+        "des": "Guess the Malayalam movie from the emojis"
+    },
+    {
+        "name": "Emoji Movies 3",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies",
+        "des": "Guess the Malayalam movie from the emojis"
+    },
+    {
+        "name": "Emoji Movies 4",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies",
+        "des": "Guess the Malayalam movie from the emojis"
+    },
+    {
+        "name": "Emoji Movies 5",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies",
+        "des": "Guess the Malayalam movie from the emojis"
+    },
+    {
+        "name": "Emoji Movies 6",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies",
+        "des": "Guess the Malayalam movie from the emojis"
+    },
+    {
+        "name": "Emoji Movies 7",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies",
+        "des": "Guess the Malayalam movie from the emojis"
+    },
+    {
+        "name": "Emoji Movies 8",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies",
+        "des": "Guess the Malayalam movie from the emojis"
+    },
+    {
+        "name": "Emoji Movies 9",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies",
+        "des": "Guess the Malayalam movie from the emojis"
+    },
+    {
+        "name": "Emoji Movies 10",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Emoji Movies",
+        "des": "Guess the Malayalam movie from the emojis"
+    },
+    {
+        "name": "English Translations 1",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations",
+        "des": "Guess the Malayalam movie from its literal English translation"
+    },
+    {
+        "name": "English Translations 2",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations",
+        "des": "Guess the Malayalam movie from its literal English translation"
+    },
+    {
+        "name": "English Translations 3",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations",
+        "des": "Guess the Malayalam movie from its literal English translation"
+    },
+    {
+        "name": "English Translations 4",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations",
+        "des": "Guess the Malayalam movie from its literal English translation"
+    },
+    {
+        "name": "English Translations 5",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations",
+        "des": "Guess the Malayalam movie from its literal English translation"
+    },
+    {
+        "name": "English Translations 6",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations",
+        "des": "Guess the Malayalam movie from its literal English translation"
+    },
+    {
+        "name": "English Translations 7",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations",
+        "des": "Guess the Malayalam movie from its literal English translation"
+    },
+    {
+        "name": "English Translations 8",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations",
+        "des": "Guess the Malayalam movie from its literal English translation"
+    },
+    {
+        "name": "English Translations 9",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations",
+        "des": "Guess the Malayalam movie from its literal English translation"
+    },
+    {
+        "name": "English Translations 10",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "English Translations",
+        "des": "Guess the Malayalam movie from its literal English translation"
     }
 ]
