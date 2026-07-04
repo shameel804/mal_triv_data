@@ -28,7 +28,7 @@
     {
         "name": "Movies 2",
         "lvls": 20,
-        "cost": 0,
+        "cost": 150,
         "star": 17,
         "is_star": true,
         "cover": 0,
@@ -37,7 +37,7 @@
     {
         "name": "Movies 3",
         "lvls": 20,
-        "cost": 0,
+        "cost": 150,
         "star": 34,
         "is_star": true,
         "cover": 0,
@@ -46,7 +46,7 @@
     {
         "name": "Youtuber 1",
         "lvls": 20,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "cover": 14,
         "disc": 10,
@@ -55,7 +55,7 @@
     {
         "name": "Plot Summaries 1",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": 7,
         "is_text": true,
         "cover": 0,
@@ -65,7 +65,7 @@
     {
         "name": "Dialogues 1",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": 10,
         "is_text": true,
         "cover": 0,
@@ -75,7 +75,7 @@
     {
         "name": "Songs 2",
         "lvls": 30,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_song": true,
         "cover": 0,
@@ -85,7 +85,7 @@
     {
         "name": "Movies 4",
         "lvls": 20,
-        "cost": 0,
+        "cost": 150,
         "star": 51,
         "is_star": true,
         "cover": 0,
@@ -94,7 +94,7 @@
     {
         "name": "Actors 2",
         "lvls": 20,
-        "cost": 0,
+        "cost": 350,
         "star": 60,
         "cover": 9,
         "type": "Actors"
@@ -102,7 +102,7 @@
     {
         "name": "Movies 5",
         "lvls": 20,
-        "cost": 0,
+        "cost": 350,
         "star": 68,
         "is_star": true,
         "cover": 0,
@@ -111,7 +111,7 @@
     {
         "name": "Actors 3",
         "lvls": 20,
-        "cost": 0,
+        "cost": 250,
         "star": null,
         "cover": 11,
         "type": "Actors"
@@ -119,7 +119,7 @@
     {
         "name": "Movies 6",
         "lvls": 20,
-        "cost": 0,
+        "cost": 350,
         "star": 85,
         "is_star": true,
         "cover": 0,
@@ -128,7 +128,7 @@
     {
         "name": "Actors 4",
         "lvls": 20,
-        "cost": 0,
+        "cost": 350,
         "star": null,
         "cover": 0,
         "type": "Actors"
@@ -136,7 +136,7 @@
     {
         "name": "Movies 7",
         "lvls": 20,
-        "cost": 0,
+        "cost": 500,
         "star": 102,
         "is_star": true,
         "cover": 0,
@@ -145,7 +145,7 @@
     {
         "name": "Actors 5",
         "lvls": 20,
-        "cost": 0,
+        "cost": 450,
         "star": null,
         "cover": 0,
         "type": "Actors"
@@ -153,7 +153,7 @@
     {
         "name": "Movies 8",
         "lvls": 20,
-        "cost": 0,
+        "cost": 500,
         "star": 119,
         "is_star": true,
         "cover": 0,
@@ -162,7 +162,7 @@
     {
         "name": "Actors 6",
         "lvls": 20,
-        "cost": 0,
+        "cost": 450,
         "star": null,
         "cover": 0,
         "type": "Actors"
@@ -170,7 +170,7 @@
     {
         "name": "Movies 9",
         "lvls": 20,
-        "cost": 0,
+        "cost": 500,
         "star": 136,
         "is_star": true,
         "cover": 0,
@@ -179,7 +179,7 @@
     {
         "name": "Actors 7",
         "lvls": 20,
-        "cost": 0,
+        "cost": 450,
         "star": null,
         "cover": 12,
         "type": "Actors"
@@ -187,7 +187,7 @@
     {
         "name": "Movies 10",
         "lvls": 20,
-        "cost": 0,
+        "cost": 500,
         "star": 153,
         "is_star": true,
         "cover": 0,
@@ -196,7 +196,7 @@
     {
         "name": "Movies 11",
         "lvls": 20,
-        "cost": 0,
+        "cost": 900,
         "star": 170,
         "is_star": true,
         "cover": 15,
@@ -205,7 +205,7 @@
     {
         "name": "Movies 12",
         "lvls": 20,
-        "cost": 0,
+        "cost": 900,
         "star": 187,
         "is_star": true,
         "cover": 14,
@@ -214,7 +214,7 @@
     {
         "name": "Movies 13",
         "lvls": 20,
-        "cost": 0,
+        "cost": 900,
         "star": 204,
         "is_star": true,
         "cover": 3,
@@ -223,7 +223,7 @@
     {
         "name": "Movies 14",
         "lvls": 22,
-        "cost": 0,
+        "cost": 900,
         "star": 221,
         "is_star": true,
         "cover": 17,
@@ -232,7 +232,7 @@
     {
         "name": "Dialogues 2",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": 36,
         "is_text": true,
         "cover": 0,
@@ -241,7 +241,7 @@
     {
         "name": "Dialogues 3",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": 42,
         "is_text": true,
         "cover": 0,
@@ -250,7 +250,7 @@
     {
         "name": "Dialogues 4",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": 61,
         "is_text": true,
         "cover": 0,
@@ -259,7 +259,7 @@
     {
         "name": "Dialogues 5",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -268,7 +268,7 @@
     {
         "name": "Dialogues 6",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -277,7 +277,7 @@
     {
         "name": "Dialogues 7",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -286,7 +286,7 @@
     {
         "name": "Dialogues 8",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -295,7 +295,7 @@
     {
         "name": "Dialogues 9",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -304,7 +304,7 @@
     {
         "name": "Dialogues 10",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -313,7 +313,7 @@
     {
         "name": "Plot Summaries 2",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": 24,
         "is_text": true,
         "cover": 0,
@@ -322,7 +322,7 @@
     {
         "name": "Plot Summaries 3",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": 34,
         "is_text": true,
         "cover": 0,
@@ -331,7 +331,7 @@
     {
         "name": "Plot Summaries 4",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": 62,
         "is_text": true,
         "cover": 0,
@@ -340,7 +340,7 @@
     {
         "name": "Plot Summaries 5",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -349,7 +349,7 @@
     {
         "name": "Plot Summaries 6",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -358,7 +358,7 @@
     {
         "name": "Plot Summaries 7",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -367,7 +367,7 @@
     {
         "name": "Plot Summaries 8",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -376,7 +376,7 @@
     {
         "name": "Plot Summaries 9",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -385,7 +385,7 @@
     {
         "name": "Plot Summaries 10",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -394,7 +394,7 @@
     {
         "name": "Character Trios 1",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -404,7 +404,7 @@
     {
         "name": "Character Trios 2",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -414,7 +414,7 @@
     {
         "name": "Character Trios 3",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -424,7 +424,7 @@
     {
         "name": "Character Trios 4",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -434,7 +434,7 @@
     {
         "name": "Character Trios 5",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -444,7 +444,7 @@
     {
         "name": "Character Trios 6",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -454,7 +454,7 @@
     {
         "name": "Character Trios 7",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -464,7 +464,7 @@
     {
         "name": "Character Trios 8",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -474,7 +474,7 @@
     {
         "name": "Character Trios 9",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -484,7 +484,7 @@
     {
         "name": "Character Trios 10",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -494,7 +494,7 @@
     {
         "name": "Emoji Movies 1",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -504,7 +504,7 @@
     {
         "name": "Emoji Movies 2",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -514,7 +514,7 @@
     {
         "name": "Emoji Movies 3",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -524,7 +524,7 @@
     {
         "name": "Emoji Movies 4",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -534,7 +534,7 @@
     {
         "name": "Emoji Movies 5",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -544,7 +544,7 @@
     {
         "name": "Emoji Movies 6",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -554,7 +554,7 @@
     {
         "name": "Emoji Movies 7",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -564,7 +564,7 @@
     {
         "name": "Emoji Movies 8",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -574,7 +574,7 @@
     {
         "name": "Emoji Movies 9",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -584,7 +584,7 @@
     {
         "name": "Emoji Movies 10",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -594,7 +594,7 @@
     {
         "name": "English Translations 1",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -604,7 +604,7 @@
     {
         "name": "English Translations 2",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -614,7 +614,7 @@
     {
         "name": "English Translations 3",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -624,7 +624,7 @@
     {
         "name": "English Translations 4",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -634,7 +634,7 @@
     {
         "name": "English Translations 5",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -644,7 +644,7 @@
     {
         "name": "English Translations 6",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -654,7 +654,7 @@
     {
         "name": "English Translations 7",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -664,7 +664,7 @@
     {
         "name": "English Translations 8",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -674,7 +674,7 @@
     {
         "name": "English Translations 9",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -684,7 +684,7 @@
     {
         "name": "English Translations 10",
         "lvls": 15,
-        "cost": 0,
+        "cost": 150,
         "star": null,
         "is_text": true,
         "cover": 0,
