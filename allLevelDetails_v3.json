@@ -53,6 +53,24 @@
         "type": "Youtuber"
     },
     {
+        "name": "Plot Summaries 1",
+        "lvls": 15,
+        "cost": 150,
+        "star": 7,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Dialogues 1",
+        "lvls": 15,
+        "cost": 150,
+        "star": 10,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
         "name": "Songs 2",
         "lvls": 30,
         "cost": 150,
@@ -210,12 +228,165 @@
         "type": "Movies"
     },
     {
-        "name": "Dialogues 1",
-        "lvls": 5,
-        "cost": 0,
-        "star": 0,
+        "name": "Dialogues 2",
+        "lvls": 15,
+        "cost": 150,
+        "star": 36,
         "is_text": true,
         "cover": 0,
         "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 3",
+        "lvls": 15,
+        "cost": 150,
+        "star": 42,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 4",
+        "lvls": 15,
+        "cost": 150,
+        "star": 61,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 5",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 6",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 7",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 8",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 9",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Dialogues 10",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Dialogues"
+    },
+    {
+        "name": "Plot Summaries 2",
+        "lvls": 15,
+        "cost": 150,
+        "star": 24,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 3",
+        "lvls": 15,
+        "cost": 150,
+        "star": 34,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 4",
+        "lvls": 15,
+        "cost": 150,
+        "star": 62,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 5",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 6",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 7",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 8",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 9",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
+    },
+    {
+        "name": "Plot Summaries 10",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Plot Summaries"
     }
 ]
