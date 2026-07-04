@@ -28,7 +28,7 @@
     {
         "name": "Movies 2",
         "lvls": 20,
-        "cost": 0,
+        "cost": 5,
         "star": 17,
         "is_star": true,
         "cover": 0,
@@ -37,7 +37,7 @@
     {
         "name": "Movies 3",
         "lvls": 20,
-        "cost": 0,
+        "cost": 5,
         "star": 34,
         "is_star": true,
         "cover": 0,
@@ -46,7 +46,7 @@
     {
         "name": "Youtuber 1",
         "lvls": 20,
-        "cost": 0,
+        "cost": 5,
         "star": null,
         "cover": 14,
         "disc": 10,
@@ -232,7 +232,7 @@
     {
         "name": "Dialogues 2",
         "lvls": 15,
-        "cost": 0,
+        "cost": 1,
         "star": 36,
         "is_text": true,
         "cover": 0,
@@ -241,7 +241,7 @@
     {
         "name": "Dialogues 3",
         "lvls": 15,
-        "cost": 0,
+        "cost": 1,
         "star": 42,
         "is_text": true,
         "cover": 0,
@@ -250,7 +250,7 @@
     {
         "name": "Dialogues 4",
         "lvls": 15,
-        "cost": 0,
+        "cost": 1,
         "star": 61,
         "is_text": true,
         "cover": 0,
@@ -259,7 +259,7 @@
     {
         "name": "Dialogues 5",
         "lvls": 15,
-        "cost": 0,
+        "cost": 1,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -268,7 +268,7 @@
     {
         "name": "Dialogues 6",
         "lvls": 15,
-        "cost": 0,
+        "cost": 1,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -313,7 +313,7 @@
     {
         "name": "Plot Summaries 2",
         "lvls": 15,
-        "cost": 0,
+        "cost": 1,
         "star": 24,
         "is_text": true,
         "cover": 0,
@@ -322,7 +322,7 @@
     {
         "name": "Plot Summaries 3",
         "lvls": 15,
-        "cost": 0,
+        "cost": 1,
         "star": 34,
         "is_text": true,
         "cover": 0,
@@ -331,7 +331,7 @@
     {
         "name": "Plot Summaries 4",
         "lvls": 15,
-        "cost": 0,
+        "cost": 1,
         "star": 62,
         "is_text": true,
         "cover": 0,
@@ -340,7 +340,7 @@
     {
         "name": "Plot Summaries 5",
         "lvls": 15,
-        "cost": 0,
+        "cost": 1,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -349,7 +349,7 @@
     {
         "name": "Plot Summaries 6",
         "lvls": 15,
-        "cost": 0,
+        "cost": 1,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -404,7 +404,7 @@
     {
         "name": "Character Trios 2",
         "lvls": 15,
-        "cost": 0,
+        "cost": 1,
         "star": null,
         "is_text": true,
         "cover": 0,
@@ -414,7 +414,7 @@
     {
         "name": "Character Trios 3",
         "lvls": 15,
-        "cost": 0,
+        "cost": 1,
         "star": null,
         "is_text": true,
         "cover": 0,
