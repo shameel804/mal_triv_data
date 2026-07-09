@@ -690,5 +690,135 @@
         "cover": 0,
         "type": "English Translations",
         "des": "Guess the Malayalam movie from its literal English translation"
+    },
+    {
+        "name": "Social Media",
+        "type": "Apps",
+        "lvls": 12,
+        "cost": 0,
+        "star": 0,
+        "cover": 0,
+        "des": "Guess the Application name by seeing the app's screenshot.",
+        "is_star": true
+    },
+    {
+        "name": "Entertainment",
+        "type": "Apps",
+        "lvls": 10,
+        "cost": 150,
+        "star": 88,
+        "cover": 0,
+        "des": "Guess the Application name by seeing the app's screenshot.",
+        "is_star": true
+    },
+    {
+        "name": "Music & Audio",
+        "type": "Apps",
+        "lvls": 10,
+        "cost": 150,
+        "star": 105,
+        "cover": 0,
+        "des": "Guess the Application name by seeing the app's screenshot.",
+        "is_star": true
+    },
+    {
+        "name": "Shopping",
+        "type": "Apps",
+        "lvls": 10,
+        "cost": 150,
+        "star": 122,
+        "cover": 0,
+        "des": "Guess the Application name by seeing the app's screenshot.",
+        "is_star": true
+    },
+    {
+        "name": "Food & Travel",
+        "type": "Apps",
+        "lvls": 10,
+        "cost": 138,
+        "star": null,
+        "cover": 0,
+        "des": "Guess the Application name by seeing the app's screenshot.",
+        "is_star": true
+    },
+    {
+        "name": "Productivity",
+        "type": "Apps",
+        "lvls": 10,
+        "cost": 150,
+        "star": null,
+        "cover": 0,
+        "des": "Guess the Application name by seeing the app's screenshot.",
+        "is_star": true
+    },
+    {
+        "name": "Office & Documents",
+        "type": "Apps",
+        "lvls": 10,
+        "cost": 150,
+        "star": null,
+        "cover": 0,
+        "des": "Guess the Application name by seeing the app's screenshot.",
+        "is_star": true
+    },
+    {
+        "name": "AI Apps",
+        "type": "Apps",
+        "lvls": 10,
+        "cost": 150,
+        "star": null,
+        "cover": 0,
+        "des": "Guess the Application name by seeing the app's screenshot.",
+        "is_star": true
+    },
+    {
+        "name": "Photo & Video Editing",
+        "type": "Apps",
+        "lvls": 10,
+        "cost": 150,
+        "star": null,
+        "cover": 0,
+        "des": "Guess the Application name by seeing the app's screenshot.",
+        "is_star": true
+    },
+    {
+        "name": "Browsers & Email",
+        "type": "Apps",
+        "lvls": 10,
+        "cost": 150,
+        "star": null,
+        "cover": 0,
+        "des": "Guess the Application name by seeing the app's screenshot.",
+        "is_star": true
+    },
+    {
+        "name": "Finance & Cloud",
+        "type": "Apps",
+        "lvls": 10,
+        "cost": 150,
+        "star": null,
+        "cover": 0,
+        "des": "Guess the Application name by seeing the app's screenshot.",
+        "is_star": true
+    },
+    {
+        "name": "Developer Tools",
+        "type": "Apps",
+        "lvls": 10,
+        "cost": 150,
+        "star": null,
+        "cover": 0,
+        "des": "Guess the Application name by seeing the app's screenshot.",
+        "is_star": true
+    },
+    {
+        "name": "Remember These?",
+        "type": "Apps",
+        "lvls": 25,
+        "cost": 150,
+        "star": null,
+        "cover": 0,
+        "des": "Guess the Application name by seeing the app's screenshot.",
+        "is_star": true
     }
 ]
