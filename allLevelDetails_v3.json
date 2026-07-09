@@ -55,8 +55,8 @@
     {
         "name": "Plot Summaries 1",
         "lvls": 15,
-        "cost": 150,
-        "star": 7,
+        "cost": 0,
+        "star": 0,
         "is_text": true,
         "cover": 0,
         "type": "Plot Summaries",
@@ -65,8 +65,8 @@
     {
         "name": "Dialogues 1",
         "lvls": 15,
-        "cost": 150,
-        "star": 10,
+        "cost": 0,
+        "star": 0,
         "is_text": true,
         "cover": 0,
         "type": "Dialogues",
@@ -394,8 +394,8 @@
     {
         "name": "Character Trios 1",
         "lvls": 15,
-        "cost": 150,
-        "star": null,
+        "cost": 0,
+        "star": 0,
         "is_text": true,
         "cover": 0,
         "type": "Character Trios",
@@ -494,8 +494,8 @@
     {
         "name": "Emoji Movies 1",
         "lvls": 15,
-        "cost": 150,
-        "star": null,
+        "cost": 0,
+        "star": 0,
         "is_text": true,
         "cover": 0,
         "type": "Emoji Movies",
