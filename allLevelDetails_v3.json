@@ -693,8 +693,8 @@
     {
         "name": "English Translations 1",
         "lvls": 15,
-        "cost": 150,
-        "star": null,
+        "cost": 0,
+        "star": 0,
         "is_text": true,
         "cover": 0,
         "type": "English Translations",
