@@ -233,7 +233,7 @@
         "name": "Movies 15",
         "lvls": 20,
         "cost": 900,
-        "star": null,
+        "star": 238,
         "is_star": true,
         "cover": 0,
         "type": "Movies"
@@ -242,7 +242,7 @@
         "name": "Movies 16",
         "lvls": 20,
         "cost": 900,
-        "star": null,
+        "star": 255,
         "is_star": true,
         "cover": 0,
         "type": "Movies"
@@ -251,7 +251,7 @@
         "name": "Movies 17",
         "lvls": 20,
         "cost": 900,
-        "star": null,
+        "star": 272,
         "is_star": true,
         "cover": 0,
         "type": "Movies"
@@ -260,7 +260,7 @@
         "name": "Movies 18",
         "lvls": 20,
         "cost": 900,
-        "star": null,
+        "star": 289,
         "is_star": true,
         "cover": 0,
         "type": "Movies"
@@ -269,7 +269,7 @@
         "name": "Movies 19",
         "lvls": 20,
         "cost": 900,
-        "star": null,
+        "star": 306,
         "is_star": true,
         "cover": 0,
         "type": "Movies"
@@ -278,7 +278,7 @@
         "name": "Movies 20",
         "lvls": 20,
         "cost": 900,
-        "star": null,
+        "star": 323,
         "is_star": true,
         "cover": 0,
         "type": "Movies"
@@ -287,7 +287,7 @@
         "name": "Movies 21",
         "lvls": 20,
         "cost": 900,
-        "star": null,
+        "star": 340,
         "is_star": true,
         "cover": 0,
         "type": "Movies"
@@ -296,7 +296,7 @@
         "name": "Movies 22",
         "lvls": 20,
         "cost": 900,
-        "star": null,
+        "star": 357,
         "is_star": true,
         "cover": 0,
         "type": "Movies"
@@ -305,7 +305,7 @@
         "name": "Movies 23",
         "lvls": 20,
         "cost": 900,
-        "star": null,
+        "star": 374,
         "is_star": true,
         "cover": 0,
         "type": "Movies"
@@ -314,7 +314,7 @@
         "name": "Movies 24",
         "lvls": 20,
         "cost": 900,
-        "star": null,
+        "star": 391,
         "is_star": true,
         "cover": 0,
         "type": "Movies"
@@ -323,7 +323,7 @@
         "name": "Movies 25",
         "lvls": 20,
         "cost": 900,
-        "star": null,
+        "star": 408,
         "is_star": true,
         "cover": 0,
         "type": "Movies"
