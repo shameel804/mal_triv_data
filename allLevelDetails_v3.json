@@ -230,6 +230,105 @@
         "type": "Movies"
     },
     {
+        "name": "Movies 15",
+        "lvls": 20,
+        "cost": 900,
+        "star": null,
+        "is_star": true,
+        "cover": 0,
+        "type": "New Movie"
+    },
+    {
+        "name": "Movies 16",
+        "lvls": 20,
+        "cost": 900,
+        "star": null,
+        "is_star": true,
+        "cover": 0,
+        "type": "New Movie"
+    },
+    {
+        "name": "Movies 17",
+        "lvls": 20,
+        "cost": 900,
+        "star": null,
+        "is_star": true,
+        "cover": 0,
+        "type": "New Movie"
+    },
+    {
+        "name": "Movies 18",
+        "lvls": 20,
+        "cost": 900,
+        "star": null,
+        "is_star": true,
+        "cover": 0,
+        "type": "New Movie"
+    },
+    {
+        "name": "Movies 19",
+        "lvls": 20,
+        "cost": 900,
+        "star": null,
+        "is_star": true,
+        "cover": 0,
+        "type": "New Movie"
+    },
+    {
+        "name": "Movies 20",
+        "lvls": 20,
+        "cost": 900,
+        "star": null,
+        "is_star": true,
+        "cover": 0,
+        "type": "New Movie"
+    },
+    {
+        "name": "Movies 21",
+        "lvls": 20,
+        "cost": 900,
+        "star": null,
+        "is_star": true,
+        "cover": 0,
+        "type": "New Movie"
+    },
+    {
+        "name": "Movies 22",
+        "lvls": 20,
+        "cost": 900,
+        "star": null,
+        "is_star": true,
+        "cover": 0,
+        "type": "New Movie"
+    },
+    {
+        "name": "Movies 23",
+        "lvls": 20,
+        "cost": 900,
+        "star": null,
+        "is_star": true,
+        "cover": 0,
+        "type": "New Movie"
+    },
+    {
+        "name": "Movies 24",
+        "lvls": 20,
+        "cost": 900,
+        "star": null,
+        "is_star": true,
+        "cover": 0,
+        "type": "New Movie"
+    },
+    {
+        "name": "Movies 25",
+        "lvls": 20,
+        "cost": 900,
+        "star": null,
+        "is_star": true,
+        "cover": 0,
+        "type": "New Movie"
+    },
+    {
         "name": "Dialogues 2",
         "lvls": 15,
         "cost": 150,
